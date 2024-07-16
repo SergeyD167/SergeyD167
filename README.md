@@ -1,4 +1,4 @@
-### Hi there 👋
+### one mistake and you're wrong
 
 <!--
 **SergeyD167/SergeyD167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
